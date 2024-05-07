@@ -72,6 +72,4 @@ The `Delivery` function is used by the contract owner (Amazon) to process produc
 - Buyers must pay the exact product price in Ether to complete a purchase.
 - The contract uses wei as the unit for Ether transactions, where 1 Ether = 10^18 wei.
 
-## License
 
-This smart contract is released under the MIT License. See the `LICENSE` file for more information.
